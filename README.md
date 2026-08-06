@@ -1,31 +1,61 @@
+# roshanmohanta
+
+> Recruiter-friendly proof and contact path.
+
+**Theme:** GitHub · **Style:** Creative · **Agent:** Full-Stack Engineer
+
+## GitHub Stats
+GitSkins stat widgets will use the **GitHub** theme.
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=roshanmohanta&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/hero?username=roshanmohanta&theme=github-dark" alt="Roshan Kumar Mohanta profile hero" /></picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=roshanmohanta&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stats?username=roshanmohanta&theme=github-dark" alt="roshanmohanta stats section" />
+  </picture>
 </p>
-
+## Skills
+Selected stack and skill badges will be generated from the GitHub profile and README strategy.
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=roshanmohanta&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/about?username=roshanmohanta&theme=github-dark" alt="About Roshan Kumar Mohanta" /></picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=roshanmohanta&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/stack?username=roshanmohanta&theme=github-dark" alt="roshanmohanta stack section" />
+  </picture>
 </p>
-
+## Projects
+Highlights repositories as proof of work.
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=roshanmohanta&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stack?username=roshanmohanta&theme=github-dark" alt="Language stack" /></picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=roshanmohanta&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/projects?username=roshanmohanta&theme=github-dark" alt="roshanmohanta projects section" />
+  </picture>
 </p>
-
-## 📊 GitHub Stats
-
+## Connect
+Contact and social links will appear here.
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=roshanmohanta&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/stats?username=roshanmohanta&theme=github-dark" alt="GitHub Stats" /></picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=roshanmohanta&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/social?username=roshanmohanta&theme=github-dark" alt="roshanmohanta social section" />
+  </picture>
 </p>
-
-
-
-## 🤝 Connect With Me
-
+## About Me
+Shapes the short profile story and positioning.
 <p align="center">
-  <picture><source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=roshanmohanta&theme=github-dark&mode=light" /><img src="https://www.gitskins.com/api/section/social?username=roshanmohanta&theme=github-dark" alt="roshanmohanta social links" /></picture>
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/about?username=roshanmohanta&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/about?username=roshanmohanta&theme=github-dark" alt="roshanmohanta about section" />
+  </picture>
 </p>
+## Header
+Hi, I'm **roshanmohanta**. This README is tuned for **get hired** with a GitHub visual system.
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=roshanmohanta&theme=github-dark&mode=light" />
+    <img src="https://www.gitskins.com/api/section/hero?username=roshanmohanta&theme=github-dark" alt="roshanmohanta hero section" />
+  </picture>
+</p>
+## Streak
+Adds contribution consistency signals.
+## Heatmap
+> Editing this section in the inspector.
+Animated year-long contribution calendar.
 
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/roshanmohanta)
-
----
-
-<p align="center">Profile README generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></p>
+<!-- Sections: GitHub Stats, Skills, Projects, Connect, About Me, Header, Streak, Heatmap -->
